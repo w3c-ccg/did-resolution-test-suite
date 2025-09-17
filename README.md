@@ -1,3 +1,5 @@
+**This test suite is archived, work on a DID Resolution test suite will continue here: https://github.com/w3c-ccg/did-resolution-mocha-test-suite**
+
 # did-resolution-test-suite
 _test suite for DID resolver_
 
